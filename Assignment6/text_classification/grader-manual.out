@@ -1,0 +1,21 @@
+parts:
+- maxPoints: 1
+  messages: ['?']
+  name: 3.1.1b-0
+  points: '?'
+- maxPoints: 5
+  messages: ['?']
+  name: 3.1.3c
+  points: '?'
+- maxPoints: 3
+  messages: ['?']
+  name: 3.2a
+  points: '?'
+- maxPoints: 5
+  messages: ['?']
+  name: 3.2b
+  points: '?'
+- maxPoints: 3
+  messages: ['?']
+  name: 3.3b-0
+  points: '?'

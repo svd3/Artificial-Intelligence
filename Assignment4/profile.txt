@@ -1,0 +1,18 @@
+# Unit limit per semester. You can ignore this for the first
+# few questions in problem 3.
+minUnits 6
+maxUnits 9
+
+# These are the semesters that I need to fill out.
+# It is assumed that the semesters are sorted in chronological order.
+register Spr2018
+
+# Courses I've already taken
+taken COMP215
+taken COMP440
+taken COMP502
+
+# Courses that I'm requesting
+request COMP600 in Spr2018
+request COMP607 in Spr2018
+request COMP322 in Spr2018
